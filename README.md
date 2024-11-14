@@ -8,7 +8,7 @@ I'm a **Software Engineer** with over **3 years of experience** in developing se
 
 - 💼 **Current Position**: Software Engineer at Brain Station 23 PLC
 - 🛠️ **Expertise**: Secure finance applications, AI-enabled mobile solutions
-- 🌱 **Currently Exploring**: Advanced SwiftUI features, Combine, and Swift concurrency
+- 🌱 **Currently Exploring**: Advanced mobile development topics
 - 💬 **Ask Me About**: iOS Development, Swift, SwiftUI, UIKit, Flutter, AI in Mobile Apps
 - 📫 **Reach Me**:
   - Email: [shaon463@gmail.com](mailto:shaon463@gmail.com)
@@ -30,6 +30,7 @@ I'm a **Software Engineer** with over **3 years of experience** in developing se
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahriarRahmanShaon&theme=radical" width="400" alt="Shaon's GitHub Contribution Graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarRahmanShaon&layout=compact&theme=radical" width="400" alt="Shaon's Top Languages" />
 </div>
+
 
 ---
 
