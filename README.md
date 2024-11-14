@@ -26,18 +26,18 @@ I'm a **Software Engineer** with over **3 years of experience** in developing se
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahriarRahmanShaon&show_icons=true&include_all_commits=true&theme=radical" width="400" alt="Shaon's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahriarRahmanShaon&show_icons=true&include_all_commits=true&count_private=true&theme=radical" width="400" alt="Shaon's GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahriarRahmanShaon&theme=radical" width="400" alt="Shaon's GitHub Contribution Graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarRahmanShaon&layout=compact&theme=radical" width="400" alt="Shaon's Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shahriarRahmanShaon&theme=radical&no-frame=true&margin-w=15" width="800" alt="Shaon's Trophies" />
 </div>
-
 
 ---
 
 ### 🏆 Achievements
 
-- 🌟 **Total Stars**: <!-- Replace with actual count, e.g., 250+ stars on GitHub -->
-- 📈 **Total Contributions**: <!-- Replace with actual count, e.g., 1000+ contributions -->
+- 🌟 **Total Stars**: ![GitHub stars](https://img.shields.io/github/stars/shahriarRahmanShaon?style=social)
+- 📈 **Total Contributions**: ![GitHub contributions](https://img.shields.io/github/contributors/shahriarRahmanShaon?style=social)
 - 🌐 **Repositories**: Building impactful open-source repositories and contributing to community-driven projects
 
 ---
@@ -52,4 +52,4 @@ I'm a **Software Engineer** with over **3 years of experience** in developing se
 
 ### 📬 Let's Connect!
 
-I'm always open to new ideas, collaborations, and learning opportunities. Connect with me, and let's build something amazing together!
+I'm always open to new ideas, collaborations, and learning opportunities. If you're working on **iOS or Flutter** projects, or if you'd like to explore new technologies together, feel free to connect with me! Let’s collaborate and build something amazing together!
