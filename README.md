@@ -13,22 +13,21 @@ I'm a **Software Engineer** with over **3 years of experience** in developing se
 - 📫 **Reach Me**:
   - Email: [shaon463@gmail.com](mailto:shaon463@gmail.com)
 
-
 ---
 
 ### 🛠 Tech Stack
 
-| **Languages**     | **Frameworks & Tools**       | **Other Skills**               |
-|-------------------|------------------------------|--------------------------------|
-| Swift, Objective-C, Dart | SwiftUI, UIKit, Combine, Flutter | MVVM, MVC, REST APIs, Firebase |
+| **Languages**               | **Frameworks & Tools**                    | **Other Skills**               |
+|-----------------------------|-------------------------------------------|--------------------------------|
+| Swift, Objective-C, Dart    | SwiftUI, UIKit, Combine, Flutter          | MVVM, MVC, REST APIs, Firebase |
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahriarRahmanShaon&show_icons=true&theme=radical" width="400" alt="Shaon's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahriarRahmanShaon&theme=radical" width="400" alt="Shaon's GitHub Streaks" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahriarRahmanShaon&show_icons=true&include_all_commits=true&theme=radical" width="400" alt="Shaon's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahriarRahmanShaon&theme=radical" width="400" alt="Shaon's GitHub Contribution Graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarRahmanShaon&layout=compact&theme=radical" width="400" alt="Shaon's Top Languages" />
 </div>
 
@@ -36,9 +35,9 @@ I'm a **Software Engineer** with over **3 years of experience** in developing se
 
 ### 🏆 Achievements
 
-- 🌟 **Total Stars**: <!-- Total star count, e.g., 250+ stars on GitHub -->
-- 📈 **Total Contributions**: <!-- Contributions count, e.g., 1000+ contributions -->
-- 🌐 **Repositories**: Building impactful open-source repositories and contributing to community-driven projects.
+- 🌟 **Total Stars**: <!-- Replace with actual count, e.g., 250+ stars on GitHub -->
+- 📈 **Total Contributions**: <!-- Replace with actual count, e.g., 1000+ contributions -->
+- 🌐 **Repositories**: Building impactful open-source repositories and contributing to community-driven projects
 
 ---
 
@@ -53,6 +52,3 @@ I'm a **Software Engineer** with over **3 years of experience** in developing se
 ### 📬 Let's Connect!
 
 I'm always open to new ideas, collaborations, and learning opportunities. Connect with me, and let's build something amazing together!
-
-
-
