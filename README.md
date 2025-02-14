@@ -6,7 +6,7 @@ I'm a **Software Engineer** with over **3 years of experience** in developing se
 
 ### 👨‍💻 About Me
 
-- 💼 **Current Position**: Software Engineer at Brain Station 23 PLC
+- 💼 **Current Position**: Software Engineer || at Brain Station 23 PLC
 - 🛠️ **Expertise**: Secure finance applications, AI-enabled mobile solutions, Ride-Sharing applications
 - 🌱 **Currently Exploring**: Advanced mobile development topics
 - 💬 **Ask Me About**: iOS Development, Swift, SwiftUI, UIKit, Flutter, Cross platform development AI in Mobile Apps
