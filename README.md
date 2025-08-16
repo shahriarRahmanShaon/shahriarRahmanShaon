@@ -1,12 +1,12 @@
 # Hi there! 👋 I'm Shaon
 
-I'm a **Software Engineer** with over **3 years of experience** in developing secure finance and AI-enabled applications, primarily focusing on **iOS** using **Swift**, **SwiftUI**, and **UIKit**. I also have advanced experience in **Flutter** for cross-platform development and am currently part of the team at **Brain Station 23 PLC**. I’m passionate about creating impactful mobile solutions with an emphasis on performance, security, and user experience.
+I'm a **Software Engineer** with  **4 years of experience** in developing secure finance and AI-enabled applications, primarily focusing on **iOS** using **Swift**, **SwiftUI**, and **UIKit**. I also have advanced experience in **Flutter** for cross-platform development and am currently part of the team at **Brain Station 23 PLC**. I’m passionate about creating impactful mobile solutions with an emphasis on performance, security, and user experience.
 
 ---
 
 ### 👨‍💻 About Me
 
-- 💼 **Current Position**: Software Engineer || at Brain Station 23 PLC
+- 💼 **Current Position**: Software Engineer
 - 🛠️ **Expertise**: Secure finance applications, AI-enabled mobile solutions, Ride-Sharing applications
 - 🌱 **Currently Exploring**: Advanced mobile development topics
 - 💬 **Ask Me About**: iOS Development, Swift, SwiftUI, UIKit, Flutter, Cross platform development AI in Mobile Apps
