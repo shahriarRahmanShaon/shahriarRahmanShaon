@@ -6,7 +6,7 @@ I'm a **Software Engineer** with  **4 years of experience** in developing secure
 
 ### 👨‍💻 About Me
 
-- 💼 **Current Position**: Software Engineer L-2
+- 💼 **Current Position**: Senior Software Engineer
 - 🛠️ **Expertise**: Secure finance applications, AI-enabled mobile solutions, Ride-Sharing applications
 - 🌱 **Currently Exploring**: Advanced mobile development topics
 - 💬 **Ask Me About**: iOS Development, Swift, SwiftUI, UIKit, Flutter, Cross platform development AI in Mobile Apps
